@@ -68,3 +68,10 @@ dmypy.json
 
 # arquivos locais de IDEs
 .idea/
+
+.vscode/
+.m2/
+*.jar
+*.sha1
+*.properties
+*.db
